@@ -1,2 +1,3 @@
 # laravel
 # fortify
+# migrate
